@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Thanks for visiting my profile! Here, you'll find pins to some of the open-source codebases I've worked on over the years. 
+Thanks for visiting my profile! Here, you'll find pins to some of the open-source codebases I've worked on over the years (others are private or not publicly accessible.) 
 
 You can also find my projects in data structures & algorithms in addition to low-level systems work, featuring the following:
 - data compression algorithms
