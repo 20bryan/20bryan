@@ -9,7 +9,7 @@ I've also completed ground-up projects in operating systems and data structures 
 - Wordnet implementation using a digraph
 
 A little bit more about me -- I recently completed a summer internship at Zoom's inaugural talent program working on backend server development. 
-Before that, I worked on cosmological galaxy simulations at UC Santa Cruz, publishing research at [Oxford](https://academic.oup.com/mnras/article/501/4/4948/6047185) and [NASA](https://ui.adsabs.harvard.edu/abs/2019AAS...23335507W/abstract). I also worked at UChicago's Center for Spatial Data Science, where I helped published an open source research package in the [Python Spatial Analysis Library](https://access.readthedocs.io/en/latest/) (pinned below)! 
+Before that, I worked on cosmological galaxy simulations at UC Santa Cruz, publishing research at [Oxford](https://academic.oup.com/mnras/article/501/4/4948/6047185) and [NASA](https://ui.adsabs.harvard.edu/abs/2019AAS...23335507W/abstract). I also worked at UChicago's Center for Spatial Data Science, where I helped published an [open source research package](https://access.readthedocs.io/en/latest/) in the [Python Spatial Analysis Library](https://pysal.org/) (pinned below)! 
 
 <!--
 **20bryan/20bryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
